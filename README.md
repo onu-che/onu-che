@@ -60,7 +60,7 @@ I build, break, and improve systems, with a passion for solving real-world probl
 
 - 💼 Open to freelance, challenging collaborations, and full-time opportunities.
 - 🧑‍💻 Interested in cybersecurity, backend systems, and open source.
-- 📬 DM me on Twitter/X or email me at alfaonuche@gmail.com — I love meeting fellow builders!
+- 📬 DM me on Twitter/X or email me at emma.nuelalfa@outlook.com | I love meeting fellow builders!
 
 ---
 
