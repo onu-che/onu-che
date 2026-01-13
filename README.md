@@ -17,8 +17,8 @@ I build, break, and improve systems, with a passion for solving real-world probl
 
 ## 🏆 Featured Projects
 
-- **[AY Networks](https://github.com/onu-che/aynetworks):** Platform delivering Starlink internet vouchers, enabling seamless voucher management and access.
-- **[Cleaning Expert BT Website](https://github.com/onu-che/cleaningexpertbt):** A web platform presenting modern UI/UX and backend logic for cleaning services.
+- **[AY Networks](https://aynetworks.online):** Platform delivering Starlink internet vouchers, enabling seamless voucher management and access.
+- **[Cleaning Expert BT Website](https://cleaningexpertbt.com.au):** A web platform presenting modern UI/UX and backend logic for cleaning services.
 - **[More projects...](https://github.com/onu-che?tab=repositories)**
 > *Want something featured here? Reach out!*
 
